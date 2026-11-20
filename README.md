@@ -10,7 +10,8 @@ Amman Weather App is a responsive front-end weather web application built with R
 - Clean, responsive card-based UI styled with Material UI and custom CSS
 
 ## Tech Stack
-**Frontend:** React, Material UI (MUI), Axios, i18next, Moment.js, CSS3
+**Frontend:** React, Material UI (MUI), Axios, i18next, Moment.js, CSS3.
+
 **API:** OpenWeatherMap API
 
 ## Getting Started
